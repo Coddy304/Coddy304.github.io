@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Rubik+Mono+One&display=swap');
+@font-face{
+	font-family:"Sirus Cursiv"
+			src: url('font/1.ttf');
+			font-weight: normal;
+			font-style: normal;
+}
+body{
+	margin: 0px;
+	font-size: 32px;
+	font-family: 'Lobster', cursive;
+	background-color: #fa3c4c;	
+
+		p{
+			color: green;
+			font-size: 30px;
+			font-family: 'Press Start 2P', cursive;
+		}
+		span{
+			background-color: yellow;
+		}
+		
+			
+		}
+		span{
+			font-family: "Sirus Cursiv";
+		}
+		p{
+			color: green;
+			font-size: 32px;
+			font-family: 'Sirus Cursiv', cursive
+		}
+
+
+		p{
+			color: green;
+			font-size: 30px;
+			font-family: 'Press Start 2P', cursive;
+		}
+		span{
+			background-color: yellow;
+		}
+			h1{
+				font-family: 'Rubik Mono One', sans-serif;
+				color: #90c000;
+				font-size: 62px;
+			
+		}
+		span{
+			color: 	#ffc300;
+			background-color: yellow;
+		}
+		div{
+			width: 90%;
+			margin: auto;
+			background-color: 	#0006b1;
+			padding: 50px;
+		}
+		img{
+			max-width: 100%;
+			height: auto;
+			display: block;
+		}
+a{
+	text-decoration: none;
+	color: greenyellow;
+	font-size: 20px;
+	display: block;
+	margin: 20px 0;
+
+}
+a:hover{
+	text-decoration: underline;
+	color:#90c000 ;
+	background-color:yellow ;
+	font-size: 24px;
+}
+li{
+	color: greenyellow;
+	font-family: 1.ttf;
+	font-size: 18px;
+}
+ol{
+	list-style-type:circle;
+}
